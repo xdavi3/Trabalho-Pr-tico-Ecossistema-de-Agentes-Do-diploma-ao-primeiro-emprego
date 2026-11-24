@@ -1,0 +1,148 @@
+{
+  "cabecalho": {
+    "versao_contrato": "1.0",
+    "modulo": "tutor_curriculos",
+    "gerado_em": "2026-11-13T09:30:00-03:00",
+    "id_formando": "f03"
+  },
+  "dados_pessoais": {
+    "nome": "Tainá Ribeiro Costa",
+    "email": "taina.costa@example.com",
+    "telefone": null,
+    "cidade": "Serra - ES",
+    "links": []
+  },
+  "objetivo": "Estágio em infraestrutura e DevOps.",
+  "resumo": "Estudante de Sistemas de Informação com prática em administração de servidores Linux, redes e contêineres.",
+  "formacao": [
+    {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "Ifes - Campus Serra",
+      "inicio": "2024-02",
+      "conclusao": "2027-12",
+      "situacao": "cursando"
+    }
+  ],
+  "experiencias": [
+    {
+      "cargo": "Monitora de Redes de Computadores",
+      "organizacao": "Ifes - Campus Serra",
+      "tipo": "monitoria",
+      "inicio": "2025-08",
+      "fim": "2025-12",
+      "atividades": [
+        "Apoio às práticas de configuração de redes no laboratório"
+      ],
+      "resultados": [],
+      "tecnologias": [
+        "Linux",
+        "Cisco Packet Tracer"
+      ]
+    },
+    {
+      "cargo": "Suporte de TI voluntário",
+      "organizacao": "Associação Comunitária Bairro Novo",
+      "tipo": "voluntariado",
+      "inicio": "2024-05",
+      "fim": "2025-06",
+      "atividades": [
+        "Manutenção de computadores e da rede da associação",
+        "Instalação de sistemas e cópias de segurança"
+      ],
+      "resultados": [
+        "Rede da associação reorganizada, com cópias de segurança semanais"
+      ],
+      "tecnologias": [
+        "Linux",
+        "Windows"
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Servidor doméstico com contêineres",
+      "descricao": "Servidor Linux doméstico com serviços em contêineres e cópias de segurança automatizadas.",
+      "tecnologias": [
+        "Linux",
+        "Docker",
+        "Shell script"
+      ],
+      "link": null,
+      "resultados": []
+    },
+    {
+      "nome": "Scripts de cópia de segurança",
+      "descricao": "Scripts que fazem cópias de segurança incrementais e enviam um relatório por e-mail.",
+      "tecnologias": [
+        "Shell script",
+        "rsync"
+      ],
+      "link": null,
+      "resultados": []
+    }
+  ],
+  "habilidades": [
+    {
+      "nome": "Linux",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Servidor doméstico",
+        "Suporte voluntário"
+      ]
+    },
+    {
+      "nome": "Redes de computadores",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Monitoria de Redes"
+      ]
+    },
+    {
+      "nome": "Docker",
+      "categoria": "ferramenta",
+      "nivel": "basico",
+      "evidencias": [
+        "Servidor doméstico"
+      ]
+    },
+    {
+      "nome": "Shell script",
+      "categoria": "tecnica",
+      "nivel": "basico",
+      "evidencias": [
+        "Scripts de cópia de segurança"
+      ]
+    },
+    {
+      "nome": "Python",
+      "categoria": "tecnica",
+      "nivel": "basico",
+      "evidencias": [
+        "Disciplinas do curso"
+      ]
+    },
+    {
+      "nome": "Atendimento ao usuário",
+      "categoria": "comportamental",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Suporte voluntário"
+      ]
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglês",
+      "nivel": "intermediario"
+    }
+  ],
+  "certificacoes": [
+    {
+      "nome": "Linux Essentials",
+      "emissor": "Linux Professional Institute",
+      "ano": 2025
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "cabecalho": {
+    "versao_contrato": "1.0",
+    "modulo": "tutor_curriculos",
+    "gerado_em": "2026-11-13T09:30:00-03:00",
+    "id_formando": "f01"
+  },
+  "dados_pessoais": {
+    "nome": "Larissa Moreira Prado",
+    "email": "larissa.prado@example.com",
+    "telefone": null,
+    "cidade": "Serra - ES",
+    "links": [
+      "https://github.com/exemplo-larissa"
+    ]
+  },
+  "objetivo": "Atuar como analista de dados júnior, transformando dados em informações para a tomada de decisão.",
+  "resumo": "Estudante de Sistemas de Informação com experiência em consultas SQL, tratamento de dados em Python e construção de painéis, adquirida em monitoria e iniciação científica.",
+  "formacao": [
+    {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "Ifes - Campus Serra",
+      "inicio": "2023-02",
+      "conclusao": "2026-12",
+      "situacao": "cursando"
+    }
+  ],
+  "experiencias": [
+    {
+      "cargo": "Bolsista de iniciação científica",
+      "organizacao": "Ifes - Campus Serra",
+      "tipo": "iniciacao_cientifica",
+      "inicio": "2024-08",
+      "fim": "2025-07",
+      "atividades": [
+        "Coleta e limpeza de microdados abertos de matrículas",
+        "Análise exploratória e testes estatísticos sobre evasão"
+      ],
+      "resultados": [
+        "Relatório final apresentado na jornada de iniciação científica do campus"
+      ],
+      "tecnologias": [
+        "Python",
+        "pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "cargo": "Monitora de Banco de Dados",
+      "organizacao": "Ifes - Campus Serra",
+      "tipo": "monitoria",
+      "inicio": "2025-03",
+      "fim": "2025-12",
+      "atividades": [
+        "Atendimento a alunos em consultas SQL e modelagem",
+        "Elaboração de listas de exercícios"
+      ],
+      "resultados": [
+        "Atendimento a cerca de 40 alunos por semestre"
+      ],
+      "tecnologias": [
+        "PostgreSQL",
+        "SQL"
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Painel de indicadores de matrícula",
+      "descricao": "Painel interativo com a evolução de matrículas e evasão por curso, a partir de dados abertos.",
+      "tecnologias": [
+        "Python",
+        "pandas",
+        "Plotly"
+      ],
+      "link": "https://github.com/exemplo-larissa/painel-matriculas",
+      "resultados": [
+        "Usado como apoio na apresentação da iniciação científica"
+      ]
+    },
+    {
+      "nome": "Classificador de chamados",
+      "descricao": "Modelo que classifica chamados de suporte por categoria, desenvolvido na disciplina de Inteligência Artificial.",
+      "tecnologias": [
+        "Python",
+        "scikit-learn"
+      ],
+      "link": "https://github.com/exemplo-larissa/classificador-chamados",
+      "resultados": [
+        "Acurácia de 0,82 no conjunto de teste da disciplina"
+      ]
+    }
+  ],
+  "habilidades": [
+    {
+      "nome": "SQL",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Monitoria de Banco de Dados"
+      ]
+    },
+    {
+      "nome": "Python",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Iniciação científica",
+        "Painel de indicadores de matrícula"
+      ]
+    },
+    {
+      "nome": "pandas",
+      "categoria": "ferramenta",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Iniciação científica"
+      ]
+    },
+    {
+      "nome": "Estatística",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Iniciação científica"
+      ]
+    },
+    {
+      "nome": "Power BI",
+      "categoria": "ferramenta",
+      "nivel": "basico",
+      "evidencias": [
+        "Curso online concluído"
+      ]
+    },
+    {
+      "nome": "Git",
+      "categoria": "ferramenta",
+      "nivel": "basico",
+      "evidencias": [
+        "Repositórios dos projetos"
+      ]
+    },
+    {
+      "nome": "Comunicação",
+      "categoria": "comportamental",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Monitoria de Banco de Dados"
+      ]
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglês",
+      "nivel": "intermediario"
+    }
+  ],
+  "certificacoes": []
+}

@@ -1,0 +1,141 @@
+{
+  "cabecalho": {
+    "versao_contrato": "1.0",
+    "modulo": "tutor_curriculos",
+    "gerado_em": "2026-11-13T09:30:00-03:00",
+    "id_formando": "f02"
+  },
+  "dados_pessoais": {
+    "nome": "Diego Andrade Rocha",
+    "email": "diego.rocha@example.com",
+    "telefone": null,
+    "cidade": "Serra - ES",
+    "links": [
+      "https://github.com/exemplo-diego"
+    ]
+  },
+  "objetivo": "Atuar como desenvolvedor back-end júnior em Python.",
+  "resumo": "Estudante de Sistemas de Informação e estagiário em desenvolvimento web, com experiência em Python, Django e Java.",
+  "formacao": [
+    {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "Ifes - Campus Serra",
+      "inicio": "2022-08",
+      "conclusao": "2026-12",
+      "situacao": "cursando"
+    }
+  ],
+  "experiencias": [
+    {
+      "cargo": "Estagiário de desenvolvimento web",
+      "organizacao": "Sinergia Sistemas Ltda.",
+      "tipo": "estagio",
+      "inicio": "2025-06",
+      "fim": null,
+      "atividades": [
+        "Manutenção de telas e rotas de um sistema interno em Django",
+        "Correção de defeitos registrados pela equipe de suporte"
+      ],
+      "resultados": [
+        "Correção de 25 defeitos em seis meses"
+      ],
+      "tecnologias": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "API de agendamento de salas",
+      "descricao": "API REST para reserva de salas de aula, com autenticação e verificação de conflitos de horário.",
+      "tecnologias": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQLite"
+      ],
+      "link": "https://github.com/exemplo-diego/api-agendamento-salas",
+      "resultados": [
+        "Projeto final da disciplina de Desenvolvimento Web"
+      ]
+    },
+    {
+      "nome": "Jogo da forca",
+      "descricao": "Jogo da forca em modo texto, com orientação a objetos.",
+      "tecnologias": [
+        "Java"
+      ],
+      "link": "https://github.com/exemplo-diego/jogo-forca-java",
+      "resultados": []
+    }
+  ],
+  "habilidades": [
+    {
+      "nome": "Python",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Estágio",
+        "API de agendamento de salas"
+      ]
+    },
+    {
+      "nome": "Django",
+      "categoria": "ferramenta",
+      "nivel": "basico",
+      "evidencias": [
+        "Estágio",
+        "API de agendamento de salas"
+      ]
+    },
+    {
+      "nome": "Java",
+      "categoria": "tecnica",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Jogo da forca"
+      ]
+    },
+    {
+      "nome": "SQL",
+      "categoria": "tecnica",
+      "nivel": "basico",
+      "evidencias": [
+        "Estágio"
+      ]
+    },
+    {
+      "nome": "Git",
+      "categoria": "ferramenta",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Estágio"
+      ]
+    },
+    {
+      "nome": "Docker",
+      "categoria": "ferramenta",
+      "nivel": "basico",
+      "evidencias": [
+        "Ambiente de desenvolvimento do estágio"
+      ]
+    },
+    {
+      "nome": "Trabalho em equipe",
+      "categoria": "comportamental",
+      "nivel": "intermediario",
+      "evidencias": [
+        "Estágio"
+      ]
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglês",
+      "nivel": "basico"
+    }
+  ],
+  "certificacoes": []
+}
