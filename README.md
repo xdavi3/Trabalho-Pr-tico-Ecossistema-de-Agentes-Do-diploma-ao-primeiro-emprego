@@ -80,3 +80,4 @@ pytest
 - Gabriel Silva de Oliveira
 - Felipe Becalli Trindade
 - Mickele Sousa
+- Thiago Dutra Nascimento
