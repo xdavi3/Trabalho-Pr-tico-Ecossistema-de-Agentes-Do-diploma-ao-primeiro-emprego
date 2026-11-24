@@ -73,3 +73,10 @@ pytest
 
 - O módulo foca exclusivamente no conteúdo profissional, estruturação e redação fidedigna. Não realiza geração de fotos, diagramação gráfica vetorial personalizada além do modelo Typst padronizado, nem submissão automática a portais de vagas.
 - Qualquer solicitação de inclusão de fatos não comprovados pelo formando é ativamente recusada pelos guardrails de segurança.
+
+## Integrantes da Equipe (Módulo 2)
+
+- David de Assis
+- Gabriel
+- Thiago
+- Trindade

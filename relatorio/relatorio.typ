@@ -5,8 +5,8 @@
 #show: report.with(
   title: "Ecossistema de Agentes: Módulo 2 — Tutor de currículos",
   subtitle: "Relatório do trabalho prático",
-  author: ("Equipe Módulo 2",),
-  cover-authors: [Equipe de Desenvolvimento — Módulo 2 \ Bacharelado em Sistemas de Informação \ IFES — Campus Serra],
+  author: ("David de Assis", "Gabriel", "Thiago", "Trindade"),
+  cover-authors: [David de Assis \ Gabriel \ Thiago \ Trindade \ \ Bacharelado em Sistemas de Informação \ IFES — Campus Serra],
   professor: "Dr. Sérgio Nery Simões",
   course: "Inteligência Artificial",
 )
