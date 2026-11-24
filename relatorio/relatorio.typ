@@ -5,8 +5,8 @@
 #show: report.with(
   title: "Ecossistema de Agentes: Módulo 2 — Tutor de currículos",
   subtitle: "Relatório do trabalho prático",
-  author: ("David de Assis", "Gabriel Silva de Oliveira", "Felipe Becalli Trindade", "Mickele Sousa", "Thiago Dutra Nascimento"),
-  cover-authors: [David de Assis \ Gabriel Silva de Oliveira \ Felipe Becalli Trindade \ Mickele Sousa \ Thiago Dutra Nascimento \ \ Bacharelado em Sistemas de Informação \ IFES — Campus Serra],
+  author: ("David de Assis", "Gabriel Silva de Oliveira", "Felipe Becalli Trindade", "Mickele De Souza Altavilla", "Thiago Dutra Nascimento"),
+  cover-authors: [David de Assis \ Gabriel Silva de Oliveira \ Felipe Becalli Trindade \ Mickele De Souza Altavilla \ Thiago Dutra Nascimento \ \ Bacharelado em Sistemas de Informação \ IFES — Campus Serra],
   professor: "Dr. Sérgio Nery Simões",
   course: "Inteligência Artificial",
 )

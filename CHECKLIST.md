@@ -12,7 +12,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **Dividir as tarefas entre os membros**  
   Pronto quando: cada item deste checklist tem um responsável.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **Instalar o pacote de contratos do kit**  
   Pronto quando: o comando lista os 11 documentos.  
   Comando: `pip install -e caminho/do/kit/contratos && carreira-validar --listar`  
@@ -29,7 +29,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **Criar o repositório privado no GitHub e dar acesso ao professor**  
   Pronto quando: o professor aparece como colaborador do repositório.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **Montar a estrutura do repositório a partir do módulo de exemplo**  
   Pronto quando: o repositório tem README.md, arquivo de dependências com o Agno fixado, .env.exemplo, .gitignore com .env e este CHECKLIST.md.  
   Responsável: Felipe Becalli Trindade
@@ -47,7 +47,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **Implementar a linha de comando**  
   Pronto quando: os comandos `executar`, `conversar` e `servir` funcionam.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **Gerar as saídas do formando f01 e gravá-las em saidas/f01/**  
   Pronto quando: o verificador mostra "Aprovado" para os arquivos de saidas/f01/.  
   Comando: `carreira-verificar tutor_curriculos --entrada caminho/do/kit/exemplos/f01/perfil_carreira.json --saida saidas/f01/curriculo.json`  
@@ -66,7 +66,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **F2. Importação de currículo antigo**  
   Pronto quando: funciona pela linha de comando e pela interface gráfica, e aparece na tabela de funcionalidades do relatório.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **F3. Uso do PerfilCarreira**  
   Pronto quando: funciona pela linha de comando e pela interface gráfica, e aparece na tabela de funcionalidades do relatório.  
   Responsável: Felipe Becalli Trindade
@@ -81,7 +81,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **F7. Exportação em Markdown e Typst**  
   Pronto quando: funciona pela linha de comando e pela interface gráfica, e aparece na tabela de funcionalidades do relatório.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **F8. Memória e histórico de versões**  
   Pronto quando: funciona pela linha de comando e pela interface gráfica, e aparece na tabela de funcionalidades do relatório.  
   Responsável: Felipe Becalli Trindade
@@ -96,7 +96,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **Gerar as saídas dos formandos f02 e f03 e gravá-las em saidas/f02/ e saidas/f03/**  
   Pronto quando: o verificador mostra "Aprovado" para os três formandos.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 
 ## Fase 4 — Avaliação, relatório e apresentação — entrega final: 11/12/2026
 
@@ -114,7 +114,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
   Responsável: Gabriel Silva de Oliveira
 - [x] **Escrever o relatório a partir do modelo do kit**  
   Pronto quando: todas as seções estão preenchidas e as caixas de orientação foram apagadas.  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **Escrever a seção sobre o uso de ferramentas de IA**  
   Pronto quando: a seção diz quais ferramentas foram usadas e como o resultado foi conferido.  
   Responsável: Felipe Becalli Trindade
@@ -130,7 +130,7 @@ Marque cada item com `[x]` quando ele estiver pronto e escreva o nome do respons
 - [x] **Rodar o conferidor de entrega**  
   Pronto quando: todos os itens aparecem com ✅.  
   Comando: `carreira-checar-entrega tutor_curriculos --kit caminho/do/kit`  
-  Responsável: Mickele Sousa
+  Responsável: Mickele De Souza Altavilla
 - [x] **Enviar o último commit para o GitHub até 11/12**  
   Pronto quando: o último commit aparece no GitHub com a data correta.  
   Responsável: Felipe Becalli Trindade

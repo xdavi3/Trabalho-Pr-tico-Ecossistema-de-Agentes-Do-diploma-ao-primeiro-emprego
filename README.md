@@ -79,5 +79,5 @@ pytest
 - David de Assis
 - Gabriel Silva de Oliveira
 - Felipe Becalli Trindade
-- Mickele Sousa
+- Mickele De Souza Altavilla
 - Thiago Dutra Nascimento
