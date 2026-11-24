@@ -77,6 +77,6 @@ pytest
 ## Integrantes da Equipe (Módulo 2)
 
 - David de Assis
-- Gabriel
-- Thiago
-- Trindade
+- Gabriel Silva de Oliveira
+- Felipe Becalli Trindade
+- Mickele Sousa
